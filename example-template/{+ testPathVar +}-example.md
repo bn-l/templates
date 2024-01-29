@@ -1,15 +1,21 @@
+# {+ClassName+}
 
-# Welcome to {+ testFileVar1 +}
+{+ClassName+} is a {+Language+} class providing basic arithmetic operations such as {+OperationListMarkdown+}. It's designed for {+DesignPurpose+}.
 
-Hello this is a test of a new template for a project scaffolder. This var: {+ testFileVar2 +} should be replaced by the templater.
+## Features
 
-## Why {+ testFileVar1 +} is a good idea:
-```javascript
-const someString = "{+ testFileVar2 +}"
-const someObj = {+ testFileVar3 +}
+- Add {+FeatureDetailsAdd+}
+- Subtract {+FeatureDetailsSubtract+}
+- Reset {+FeatureDetailsReset+}
+- Display {+FeatureDetailsDisplay+}
 
-for (const file of someObj) {
-    console.log(someObj.name)
-}
-```
+## Installation
 
+To use {+ClassName+} in your project, follow these steps:
+
+1. Ensure you have [{+DependencyName+}]({+DependencyLink+}) installed.
+2. Add the {+ClassName+} file to your {+Language+} project.
+3. Import {+ClassName+} into your project file:
+
+```typescript
+import { {+ClassName+} } from '{+ImportPath+}';
