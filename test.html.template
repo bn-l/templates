@@ -1,0 +1,12 @@
+<html>
+
+<head>
+    <title><^ somevar ^></title>
+    <body>
+        <h1>Test</h1 attr=<^ somevar2 ^>>
+        <p>Test</p>
+
+            
+    </body>
+</head>
+</html>
