@@ -1,0 +1,11 @@
+
+npm install
+
+# won't run if npmPackages or npmDevPackages is not set:
+
+npm install <^ npmPackages ^> 
+
+npm install -D <^ npmDevPackages ^>
+
+git init
+

@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=https://json.schemastore.org/yamllint.json
+
+# Main keywords (keyword name: description)
+
+# (description is optional, but must add a colon after keyword name)
+main project name: 
+
+className1: The main class
+
+# Shell keywords:
+
+npmPackages: Additional npm packages to install. Separate each with a comma and space.
+
+npmDevPackages: Additional npm DEV packages to install. Separate each with a comma and space. 
+
+
