@@ -3,9 +3,20 @@
 # Main keywords (keyword name: description)
 
 # (description is optional, but must add a colon after keyword name)
-main project name: 
+main project name:
 
-className1: The main class
+className: The main class
+ClassNameDescription: The main class description
+Language: A programming language
+FeatureDetailsAdd: This is a feature detail
+DependencyName: The name of a dependency
+DependencyLink: The link to the dependency
+ImportPath: The path to import a file
+OperationListMarkdown:
+
+
+# path vars:
+testPathVar: In the path to the markdown file
 
 # Shell keywords:
 
