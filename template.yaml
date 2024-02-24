@@ -12,9 +12,16 @@ FeatureDetailsAdd: This is a feature detail
 DependencyName: The name of a dependency
 DependencyLink: The link to the dependency
 ImportPath: The path to import a file
-OperationListMarkdown:
-DesignPurpose:
-
+OperationListMarkdown: some example description
+DesignPurpose: some example description
+OperationList: some example description
+Class Name: some example description
+ResultType: some example description
+a long template variable name: some example description
+NumberType: some example description
+ResetValue: some example description
+DisplayMessage: some example description
+this.result: some example description
 
 # path vars:
 testPathVar: In the path to the markdown file
