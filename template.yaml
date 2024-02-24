@@ -22,6 +22,8 @@ NumberType: some example description
 ResetValue: some example description
 DisplayMessage: some example description
 this.result: some example description
+somevar: some example description
+somevar2: some example description
 
 # path vars:
 testPathVar: In the path to the markdown file
