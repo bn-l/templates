@@ -3,7 +3,7 @@
 
 export SOME_CONST = "ssdfdsfdsf";
 
-class <^ projName | capitalize ^> {
+class <^ projName | pascalcase ^> {
 
     constructor() {
         console.log('This is the constructor of <^ projName | capitalize ^>');

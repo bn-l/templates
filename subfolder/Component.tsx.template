@@ -1,4 +1,4 @@
-import SOME_CONST from "../entryPoint.mjs"
+import SOME_CONST from "../<^ entryPoint ^>.mjs"
 
 export const Component = () => (
     <>
