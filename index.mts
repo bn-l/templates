@@ -1,5 +1,5 @@
 
-// <^ projName | capitalize ^> is an interesting class that does many things.
+// <^ projName | capitalize ^> is an interesting class that does many things. <^ adPacks ^>.
 
 class <^ projName | capitalize ^> {
 
