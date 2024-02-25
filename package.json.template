@@ -1,7 +1,7 @@
 {
   "name": "<^ projName | kebabcase ^>",
   "version": "0.0.1",
-  "description": "<^ project description ^>",
+  "description": "<^ projDesc ^>",
   "main": "index.js",
   "type": "module",
   "scripts": {
