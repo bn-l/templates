@@ -1,9 +1,13 @@
 
+
+> powershell.exe
+
 npm install
 
 # won't run if npmPackages or npmDevPackages is not set:
 
-npm install <^ npmPackages ^> 
+
+npm install <^ npmPackages ^>  # some trailing comment
 
 npm install -D <^ npmDevPackages ^>
 
