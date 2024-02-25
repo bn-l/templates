@@ -2,6 +2,7 @@
 
 projName: Main project name
 projDesc: Project description
+entryPoint: The name of the entry point file. E.g. main or index without the extension.
 
 # Shell replacements
 

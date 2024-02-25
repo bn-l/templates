@@ -1,6 +1,8 @@
 
 // <^ projName | capitalize ^> is an interesting class that does many things. <^ adPacks ^>.
 
+export SOME_CONST = "ssdfdsfdsf";
+
 class <^ projName | capitalize ^> {
 
     constructor() {
