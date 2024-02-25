@@ -1,15 +1,12 @@
 
 
-> powershell.exe
-
 npm install
 
 # won't run if npmPackages or npmDevPackages is not set:
 
+npm install <^ adPacks ^>  # some trailing comment
 
-npm install <^ npmPackages ^>  # some trailing comment
-
-npm install -D <^ npmDevPackages ^>
+npm install -D <^ adDevPacks ^>
 
 git init
 
