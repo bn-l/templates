@@ -2,5 +2,5 @@
     "yaml.schemas": {
         "https://json.schemastore.org/yamllint.json": "file:///c%3A/Users/x230/Desktop/local-templates/template.yaml"
     },
-    "github.copilot.inlineSuggest.enable": true
+    "github.copilot.inlineSuggest.enable": false
 }

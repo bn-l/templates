@@ -1,7 +1,5 @@
 
 
-#> powershit
-
 npm install
 
 # won't run if npmPackages or npmDevPackages is not set:
