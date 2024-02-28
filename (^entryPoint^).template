@@ -1,5 +1,5 @@
 
-// <^ projName | capitalize ^> is an interesting class that does many things. <^ adPacks ^>.
+// <^ projName | capitalize ^> is an interesting class that does many things.
 
 export SOME_CONST = "ssdfdsfdsf";
 
@@ -14,3 +14,5 @@ class <^ projName | pascalcase ^> {
         console.log('This is the doSomething function');
     }
 }
+
+

@@ -8,5 +8,6 @@ entryPoint: The name of the entry point file. E.g. index.js
 
 adPacks: Additional npm packages to add
 adDevPacks: Additional dev dependencies to add
+adDevPacks2: Additional dev dependencies to add
 
 # someStrangeTag: Description
