@@ -1,4 +1,4 @@
 
 npm init -y
 
-git init -y
+git init -q
