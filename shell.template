@@ -1,12 +1,7 @@
 
-
-npm install
+npm init
 
 # won't run if npmPackages or npmDevPackages is not set:
-
-npm install <^ adPacks ^>  # some trailing comment
-
-npm install -D <^ adDevPacks ^>
 
 git init
 

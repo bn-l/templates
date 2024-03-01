@@ -1,12 +1,3 @@
 
+^Typescript Project Builder: This template will build out a typescript project
 
-projName: Main project name
-projDesc: Project description
-entryPoint: The name of the entry point file. E.g. index.js
-
-# Shell replacements
-
-adPacks: Additional npm packages to add
-adDevPacks: Additional dev dependencies to add
-
-# someStrangeTag: Description
