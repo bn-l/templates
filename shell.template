@@ -1,7 +1,4 @@
 
-npm init
+npm init -y
 
-# won't run if npmPackages or npmDevPackages is not set:
-
-git init
-
+git init -y
