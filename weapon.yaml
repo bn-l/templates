@@ -2,5 +2,5 @@
 ^name: Provisioning template
 ^description: This template will download and save x y and z to a
 
-
+projName: Project name
 
